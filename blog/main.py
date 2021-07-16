@@ -65,7 +65,6 @@ def show(id, response: Response, db: Session = Depends(get_db), status_code=200)
     return blog
 
 
-pwd_cxt = CryptContext(schemes=["bcrypt"], deprecated='auto')
 
 
 @app.post('/user')
