@@ -1,0 +1,5 @@
+These files are implementation from YouTube tutorial video.
+We can CRUD blog posts.
+We can create and view users by ID.
+
+Login is implemented. It uses email: biswash@learn.fun Password: password
