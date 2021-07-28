@@ -3,3 +3,10 @@ We can CRUD blog posts.
 We can create and view users by ID.
 
 Login is implemented. It uses email: biswash@learn.fun Password: password
+
+blog-env is environment folder
+blog is the project folder
+app is copy of blog and db. We created this folder to deploy these files in deta.sh
+
+To see different routes, go to localhost:8000/docs or mainURL/docs
+We can check each routes by 'Try it out' button.
